@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamGrader_TemperatureAdviser_LabUnit1b", "ExamGrader_TemperatureAdviser_LabUnit1b\ExamGrader_TemperatureAdviser_LabUnit1b.csproj", "{90CB29E4-1D95-433B-BBC1-DE6C4C8B5A48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90CB29E4-1D95-433B-BBC1-DE6C4C8B5A48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90CB29E4-1D95-433B-BBC1-DE6C4C8B5A48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90CB29E4-1D95-433B-BBC1-DE6C4C8B5A48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90CB29E4-1D95-433B-BBC1-DE6C4C8B5A48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A76B7B30-9E94-4288-9AA9-5116D94AB693}
+	EndGlobalSection
+EndGlobal
