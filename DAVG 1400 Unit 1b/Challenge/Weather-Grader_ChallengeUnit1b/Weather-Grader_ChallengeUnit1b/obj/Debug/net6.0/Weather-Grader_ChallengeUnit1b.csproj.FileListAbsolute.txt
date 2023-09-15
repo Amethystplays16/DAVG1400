@@ -1,0 +1,14 @@
+C:\Users\Reba\source\repos\Weather-Grader_ChallengeUnit1b\Weather-Grader_ChallengeUnit1b\obj\Debug\net6.0\Weather-Grader_ChallengeUnit1b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reba\source\repos\Weather-Grader_ChallengeUnit1b\Weather-Grader_ChallengeUnit1b\obj\Debug\net6.0\Weather-Grader_ChallengeUnit1b.AssemblyInfoInputs.cache
+C:\Users\Reba\source\repos\Weather-Grader_ChallengeUnit1b\Weather-Grader_ChallengeUnit1b\obj\Debug\net6.0\Weather-Grader_ChallengeUnit1b.AssemblyInfo.cs
+C:\Users\Reba\source\repos\Weather-Grader_ChallengeUnit1b\Weather-Grader_ChallengeUnit1b\obj\Debug\net6.0\Weather-Grader_ChallengeUnit1b.csproj.CoreCompileInputs.cache
+C:\Users\Reba\source\repos\Weather-Grader_ChallengeUnit1b\Weather-Grader_ChallengeUnit1b\bin\Debug\net6.0\Weather-Grader_ChallengeUnit1b.exe
+C:\Users\Reba\source\repos\Weather-Grader_ChallengeUnit1b\Weather-Grader_ChallengeUnit1b\bin\Debug\net6.0\Weather-Grader_ChallengeUnit1b.deps.json
+C:\Users\Reba\source\repos\Weather-Grader_ChallengeUnit1b\Weather-Grader_ChallengeUnit1b\bin\Debug\net6.0\Weather-Grader_ChallengeUnit1b.runtimeconfig.json
+C:\Users\Reba\source\repos\Weather-Grader_ChallengeUnit1b\Weather-Grader_ChallengeUnit1b\bin\Debug\net6.0\Weather-Grader_ChallengeUnit1b.dll
+C:\Users\Reba\source\repos\Weather-Grader_ChallengeUnit1b\Weather-Grader_ChallengeUnit1b\bin\Debug\net6.0\Weather-Grader_ChallengeUnit1b.pdb
+C:\Users\Reba\source\repos\Weather-Grader_ChallengeUnit1b\Weather-Grader_ChallengeUnit1b\obj\Debug\net6.0\Weather-Grader_ChallengeUnit1b.dll
+C:\Users\Reba\source\repos\Weather-Grader_ChallengeUnit1b\Weather-Grader_ChallengeUnit1b\obj\Debug\net6.0\refint\Weather-Grader_ChallengeUnit1b.dll
+C:\Users\Reba\source\repos\Weather-Grader_ChallengeUnit1b\Weather-Grader_ChallengeUnit1b\obj\Debug\net6.0\Weather-Grader_ChallengeUnit1b.pdb
+C:\Users\Reba\source\repos\Weather-Grader_ChallengeUnit1b\Weather-Grader_ChallengeUnit1b\obj\Debug\net6.0\Weather-Grader_ChallengeUnit1b.genruntimeconfig.cache
+C:\Users\Reba\source\repos\Weather-Grader_ChallengeUnit1b\Weather-Grader_ChallengeUnit1b\obj\Debug\net6.0\ref\Weather-Grader_ChallengeUnit1b.dll

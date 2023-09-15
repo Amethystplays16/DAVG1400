@@ -1,16 +1,14 @@
-﻿using System.Runtime.CompilerServices;
-
-public class Grader
+﻿public class Grader
 {
     public void Checkgrade()
     {
         int Score = -1;
-       
-        while (Score <0 || Score >100)          // This is a "If" staitment that lops until we get a corent number and is with in the peramiters we set
+
+        while (Score < 0 || Score > 100)          // This is a "If" staitment that lops until we get a corent number and is with in the peramiters we set
         {
             System.Console.Write("Enter your current Score? ");
             string MyScore = System.Console.ReadLine();
-            
+
             if (!int.TryParse(MyScore, out Score))
             {
                 System.Console.WriteLine(" ---> Error: that is not a valid number!");
@@ -31,7 +29,7 @@ public class Grader
                 continue;
             }
 
-         
+
         }
 
         if (Score >= 90)                                        // This is a "if, else" to determen what grade we got
@@ -94,7 +92,7 @@ public class Weather
 
         if (degrees > 30)                                        // This is a "if, else" to determen if it is good weather outside.
             System.Console.WriteLine("Stay hydrated and avoid staying in the sun for too long.");
-        else if (degrees == 30)                                        
+        else if (degrees == 30)
             System.Console.WriteLine("They didn't tell me what you should do, so you are on your own!");
         else
             System.Console.WriteLine("Enjoy the pleasant weather.");
@@ -102,9 +100,9 @@ public class Weather
 
 }
 
-internal class Program
+internal class Program          // without Main we cannt run our progam
 {
-    private static void Main(string[] args)         // without Main we cannt run our progam
+    public static void Main(string[] args)
     {
         Grader EnterGrades = new Grader();
         EnterGrades.Checkgrade();

@@ -1,0 +1,15 @@
+C:\Users\Reba\source\repos\DAVG 1400  Unit !a\DAVG 1400  Unit !a\bin\Release\DAVG 1400  Unit !a.exe.config
+C:\Users\Reba\source\repos\DAVG 1400  Unit !a\DAVG 1400  Unit !a\bin\Release\DAVG 1400  Unit !a.exe
+C:\Users\Reba\source\repos\DAVG 1400  Unit !a\DAVG 1400  Unit !a\bin\Release\DAVG 1400  Unit !a.pdb
+C:\Users\Reba\source\repos\DAVG 1400  Unit !a\DAVG 1400  Unit !a\obj\Release\DAVG 1400  Unit !a.csproj.AssemblyReference.cache
+C:\Users\Reba\source\repos\DAVG 1400  Unit !a\DAVG 1400  Unit !a\obj\Release\MainWindow.g.cs
+C:\Users\Reba\source\repos\DAVG 1400  Unit !a\DAVG 1400  Unit !a\obj\Release\App.g.cs
+C:\Users\Reba\source\repos\DAVG 1400  Unit !a\DAVG 1400  Unit !a\obj\Release\DAVG 1400  Unit !a_MarkupCompile.cache
+C:\Users\Reba\source\repos\DAVG 1400  Unit !a\DAVG 1400  Unit !a\obj\Release\DAVG 1400  Unit !a_MarkupCompile.lref
+C:\Users\Reba\source\repos\DAVG 1400  Unit !a\DAVG 1400  Unit !a\obj\Release\MainWindow.baml
+C:\Users\Reba\source\repos\DAVG 1400  Unit !a\DAVG 1400  Unit !a\obj\Release\DAVG 1400  Unit !a.g.resources
+C:\Users\Reba\source\repos\DAVG 1400  Unit !a\DAVG 1400  Unit !a\obj\Release\DAVG_1400__Unit__a.Properties.Resources.resources
+C:\Users\Reba\source\repos\DAVG 1400  Unit !a\DAVG 1400  Unit !a\obj\Release\DAVG 1400  Unit !a.csproj.GenerateResource.cache
+C:\Users\Reba\source\repos\DAVG 1400  Unit !a\DAVG 1400  Unit !a\obj\Release\DAVG 1400  Unit !a.csproj.CoreCompileInputs.cache
+C:\Users\Reba\source\repos\DAVG 1400  Unit !a\DAVG 1400  Unit !a\obj\Release\DAVG 1400  Unit !a.exe
+C:\Users\Reba\source\repos\DAVG 1400  Unit !a\DAVG 1400  Unit !a\obj\Release\DAVG 1400  Unit !a.pdb

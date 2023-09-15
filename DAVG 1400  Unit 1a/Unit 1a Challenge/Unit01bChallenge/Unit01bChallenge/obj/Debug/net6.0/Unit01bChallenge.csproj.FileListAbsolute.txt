@@ -1,0 +1,14 @@
+C:\Users\Reba\source\repos\Unit01bChallenge\Unit01bChallenge\obj\Debug\net6.0\Unit01bChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reba\source\repos\Unit01bChallenge\Unit01bChallenge\obj\Debug\net6.0\Unit01bChallenge.AssemblyInfoInputs.cache
+C:\Users\Reba\source\repos\Unit01bChallenge\Unit01bChallenge\obj\Debug\net6.0\Unit01bChallenge.AssemblyInfo.cs
+C:\Users\Reba\source\repos\Unit01bChallenge\Unit01bChallenge\obj\Debug\net6.0\Unit01bChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Reba\source\repos\Unit01bChallenge\Unit01bChallenge\bin\Debug\net6.0\Unit01bChallenge.exe
+C:\Users\Reba\source\repos\Unit01bChallenge\Unit01bChallenge\bin\Debug\net6.0\Unit01bChallenge.deps.json
+C:\Users\Reba\source\repos\Unit01bChallenge\Unit01bChallenge\bin\Debug\net6.0\Unit01bChallenge.runtimeconfig.json
+C:\Users\Reba\source\repos\Unit01bChallenge\Unit01bChallenge\bin\Debug\net6.0\Unit01bChallenge.dll
+C:\Users\Reba\source\repos\Unit01bChallenge\Unit01bChallenge\bin\Debug\net6.0\Unit01bChallenge.pdb
+C:\Users\Reba\source\repos\Unit01bChallenge\Unit01bChallenge\obj\Debug\net6.0\Unit01bChallenge.dll
+C:\Users\Reba\source\repos\Unit01bChallenge\Unit01bChallenge\obj\Debug\net6.0\refint\Unit01bChallenge.dll
+C:\Users\Reba\source\repos\Unit01bChallenge\Unit01bChallenge\obj\Debug\net6.0\Unit01bChallenge.pdb
+C:\Users\Reba\source\repos\Unit01bChallenge\Unit01bChallenge\obj\Debug\net6.0\Unit01bChallenge.genruntimeconfig.cache
+C:\Users\Reba\source\repos\Unit01bChallenge\Unit01bChallenge\obj\Debug\net6.0\ref\Unit01bChallenge.dll
